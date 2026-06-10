@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Jeff%20Chang&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=ML%20Systems%20%C2%B7%20GPU%20%26%20Performance%20%C2%B7%20AR%2FWebXR&descAlignY=62&descSize=17" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Engineering+%40+UBC+%7C+Math+Minor;ICPC+BC+Site+Bronze+Medalist;ML+Systems+%C2%B7+Low-Level+Performance+%C2%B7+WebXR;From+RISC-V+Interrupts+to+Rendering+Pipelines)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=650&lines=ML+Systems+%C2%B7+GPU+%26+Performance+Optimization;Heterogeneous+Computing+%C2%B7+Inference+Engines;AR%2FWebXR+%C2%B7+Real-Time+Rendering;Low-Level+Systems+%C2%B7+Building+Things+That+Go+Fast)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://github.com/Darkmagician0901"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -12,6 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=Darkmagician0901&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile views" />
   </p>
 </div>
+
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Skills & Tools
@@ -20,10 +21,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r,pytorch,opencv,sklearn,react,fastapi,flask,postgres,mysql,sqlite,dynamodb,aws,terraform,docker,linux,git,cmake,latex&perline=11" />
 </div>
-
-<p align="center">
-  <i>Plus: SystemVerilog · RISC-V / AArch64 Assembly · ROS2 · Three.js / WebXR · POSIX · GitHub Actions CI/CD</i>
-</p>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
