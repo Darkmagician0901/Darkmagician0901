@@ -1,7 +1,7 @@
 <div align="center">
 
  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=650&lines=ML+Systems+%C2%B7+GPU+%26+Performance+Optimization;Heterogeneous+Computing+%C2%B7+Inference+Engines;AR%2FWebXR+%C2%B7+Real-Time+Rendering;Low-Level+Systems+%C2%B7+Building+Things+That+Go+Fast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=650&lines=ML+Systems+%C2%B7+GPU+%26+Performance+Optimization;Heterogeneous+Computing+%C2%B7+Inference+Engines;AR%2FWebXR+%C2%B7+Real-Time+Rendering;Low-Level+Systems)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://github.com/Darkmagician0901"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
