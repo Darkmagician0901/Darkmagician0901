@@ -12,27 +12,6 @@
     <img src="https://komarev.com/ghpvc/?username=Darkmagician0901&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile views" />
   </p>
 </div>
-
-<h2 align="center">🧭 About Me</h2>
-
-- 🎓 **BASc in Computer Engineering, minor in Mathematics** @ The University of British Columbia (GPA 4.04/4.33)
-- 🥽 **Emerging Media Developer Co-op @ UBC Emerging Media Lab** — building production WebXR/AR apps end-to-end (React · FastAPI · Three.js · AWS · Terraform), with rendering pipelines optimized **+25%** via Web Workers
-- 🏗️ Previously **Engineering Intern @ Glodon** — refactored 3D rendering workflows (−35% redundancy) and shipped multi-threaded algorithmic optimizations (+32% performance)
-- 🏅 **ICPC BC Site Bronze Medalist** (team lead) · Taiwan OI Selection **1st Prize**
-- 🔬 Interested in **ML systems, GPU performance optimization, and heterogeneous computing** — currently exploring inference engines (vLLM) and open-source systems contributions
-- ⚙️ I like the full stack of "fast": from **custom malloc allocators, virtual memory, and RISC-V interrupts** up to **CUDA-adjacent rendering and inference pipelines**
-
-<h2 align="center">🚀 Featured Work</h2>
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Parking Management System**](https://github.com/parking-platform-org/parking-management-system) | Smart parking platform with ML license-plate recognition — fine-tuned YOLOv8n to **97% detection**, OCR lifted **11% → 92%**, <50ms/request Flask API | YOLOv8 · OpenCV · fast-plate-ocr · Flask · SQLite |
-| [**posterAR**](https://github.com/Darkmagician0901/posterAR) | Web-based AR poster experience with image tracking, deployable on iOS/Android browsers | TypeScript · WebAR · Three.js |
-| [**terraform-setup-template**](https://github.com/Darkmagician0901/terraform-setup-template) | Reusable Terraform scaffold for AWS infra standardization | Terraform · AWS |
-| **Custom Memory Subsystem** | Segregated-fit malloc with boundary-tag coalescing, page-table-based virtual memory, and a mark-and-sweep GC | C · Linux · ARM64 · GDB |
-| **Autonomous Navigation** | ROS2 A* path planning + PID wall-following at **8cm precision** on Jetson AGX Orin | C++ · ROS2 · Gazebo · Docker |
-| **RISC-V Tron Game** | Multiplayer game on FPGA driven by RISC-V interrupts, mtimer, and a hand-rolled 640×480 VGA driver | C · RISC-V ASM · FPGA |
-
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Skills & Tools
