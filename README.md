@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Jeff%20Chang&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=ML%20Systems%20%C2%B7%20GPU%20%26%20Performance%20%C2%B7%20AR%2FWebXR&descAlignY=62&descSize=17" />
-
+ 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=650&lines=ML+Systems+%C2%B7+GPU+%26+Performance+Optimization;Heterogeneous+Computing+%C2%B7+Inference+Engines;AR%2FWebXR+%C2%B7+Real-Time+Rendering;Low-Level+Systems+%C2%B7+Building+Things+That+Go+Fast)](https://git.io/typing-svg)
 
   <p align="center">
